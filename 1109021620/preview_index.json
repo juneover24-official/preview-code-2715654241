@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1109021620",
-  "updated_at": "2026-09-16T02:11:44+00:00",
+  "updated_at": "2026-09-16T02:12:38+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -47,13 +47,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "生活细节-无漂浮版-音2.bdi",
-      "thumb": "生活细节-无漂浮版-音2.bdi_py_26_light_thumb.png",
-      "full": "生活细节-无漂浮版-音2.bdi_py_26_light_thumb.png",
-      "file_id": "9727def8727ebd75e3e9b253525c78dd"
-    },
-    {
-      "name": "乐妍底包",
       "file": "生活细节-无漂浮版-音1.bdi",
       "thumb": "生活细节-无漂浮版-音1.bdi_py_26_light_thumb.png",
       "full": "生活细节-无漂浮版-音1.bdi_py_26_light_thumb.png",
@@ -65,6 +58,13 @@
       "thumb": "生活细节-无漂浮版-音2_透明.bdi_py_26_light_thumb.png",
       "full": "生活细节-无漂浮版-音2_透明.bdi_py_26_light_thumb.png",
       "file_id": "e7b43f0d8437fbece1e9744db616dccd"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "生活细节-无漂浮版-音2.bdi",
+      "thumb": "生活细节-无漂浮版-音2.bdi_py_26_light_thumb.png",
+      "full": "生活细节-无漂浮版-音2.bdi_py_26_light_thumb.png",
+      "file_id": "9727def8727ebd75e3e9b253525c78dd"
     }
   ]
 }
