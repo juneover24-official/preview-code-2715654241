@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "185658158",
-  "updated_at": "2026-09-19T01:28:03+00:00",
+  "updated_at": "2026-09-19T01:29:14+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -37,6 +37,13 @@
       "thumb": "枝稚の美味小蛋糕二无漂_27系统.bdi_py_26_light_thumb.png",
       "full": "枝稚の美味小蛋糕二无漂_27系统.bdi_py_26_light_thumb.png",
       "file_id": "78810a510721fce74eba77ce59b000f6"
+    },
+    {
+      "name": "枝稚の美味小蛋糕",
+      "file": "枝稚の美味小蛋糕一.bdi",
+      "thumb": "枝稚の美味小蛋糕一.bdi_py_26_light_thumb.png",
+      "full": "枝稚の美味小蛋糕一.bdi_py_26_light_thumb.png",
+      "file_id": "bbcf357ec4b4552721bfbd72c953155d"
     }
   ]
 }
