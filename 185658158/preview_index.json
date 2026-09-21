@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "185658158",
-  "updated_at": "2026-09-21T10:37:50+00:00",
+  "updated_at": "2026-09-21T10:38:25+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -79,6 +79,13 @@
       "thumb": "樱花小咪-漂浮版音1.bdi_py_26_light_thumb.png",
       "full": "樱花小咪-漂浮版音1.bdi_py_26_light_thumb.png",
       "file_id": "282f29190f95deeafbf1de800930c3c2"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "樱花小咪-漂浮版音2.bdi",
+      "thumb": "樱花小咪-漂浮版音2.bdi_py_26_light_thumb.png",
+      "full": "樱花小咪-漂浮版音2.bdi_py_26_light_thumb.png",
+      "file_id": "683da2b79ead5f792e50043a4e013817"
     }
   ]
 }
