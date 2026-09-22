@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1109021620",
-  "updated_at": "2026-09-22T06:34:40+00:00",
+  "updated_at": "2026-09-22T06:39:48+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -114,6 +114,13 @@
       "thumb": "彩色小猴子-无漂浮版音2.bdi_py_26_light_thumb.png",
       "full": "彩色小猴子-无漂浮版音2.bdi_py_26_light_thumb.png",
       "file_id": "71c923b2f5abf657f9cb4536cbaf411a"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "彩色小猴子-无漂浮版音1.bdi",
+      "thumb": "彩色小猴子-无漂浮版音1.bdi_py_26_light_thumb.png",
+      "full": "彩色小猴子-无漂浮版音1.bdi_py_26_light_thumb.png",
+      "file_id": "3db832b0c659668097d6faa9fea9e186"
     }
   ]
 }
