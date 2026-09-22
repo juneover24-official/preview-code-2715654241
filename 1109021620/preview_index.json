@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1109021620",
-  "updated_at": "2026-09-22T06:51:27+00:00",
+  "updated_at": "2026-09-22T06:52:02+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -121,6 +121,13 @@
       "thumb": "亚系乐队-无漂浮版音2_透明.bdi_py_26_light_thumb.png",
       "full": "亚系乐队-无漂浮版音2_透明.bdi_py_26_light_thumb.png",
       "file_id": "1116103ea388dbc532c6769a733f60f1"
+    },
+    {
+      "name": "亚系乐队-无漂浮版描边音1",
+      "file": "亚系乐队-无漂浮版音2.bds",
+      "thumb": "亚系乐队-无漂浮版音2.bds_py_26_light_thumb.png",
+      "full": "亚系乐队-无漂浮版音2.bds_py_26_light_thumb.png",
+      "file_id": "c28f9d0ca3ea1a68c226e15faaeb6867"
     }
   ]
 }
