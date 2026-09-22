@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1109021620",
-  "updated_at": "2026-09-22T06:55:18+00:00",
+  "updated_at": "2026-09-22T06:59:34+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -89,13 +89,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "彩色小猴子-无漂浮版音2.bdi",
-      "thumb": "彩色小猴子-无漂浮版音2.bdi_py_26_light_thumb.png",
-      "full": "彩色小猴子-无漂浮版音2.bdi_py_26_light_thumb.png",
-      "file_id": "71c923b2f5abf657f9cb4536cbaf411a"
-    },
-    {
-      "name": "乐妍底包",
       "file": "彩色小猴子-无漂浮版音1.bdi",
       "thumb": "彩色小猴子-无漂浮版音1.bdi_py_26_light_thumb.png",
       "full": "彩色小猴子-无漂浮版音1.bdi_py_26_light_thumb.png",
@@ -156,6 +149,13 @@
       "thumb": "彩色小猴子-无漂浮版音2.bds_py_26_light_thumb.png",
       "full": "彩色小猴子-无漂浮版音2.bds_py_26_light_thumb.png",
       "file_id": "a9a4760b18c7ee28127a2b8e49bddb4c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "彩色小猴子-无漂浮版音2.bdi",
+      "thumb": "彩色小猴子-无漂浮版音2.bdi_py_26_light_thumb.png",
+      "full": "彩色小猴子-无漂浮版音2.bdi_py_26_light_thumb.png",
+      "file_id": "71c923b2f5abf657f9cb4536cbaf411a"
     }
   ]
 }
