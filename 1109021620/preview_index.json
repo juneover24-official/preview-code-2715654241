@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1109021620",
-  "updated_at": "2026-09-26T13:48:09+00:00",
+  "updated_at": "2026-09-26T13:48:36+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -173,13 +173,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "芝士小动物-无漂浮版-闷.bdi",
-      "thumb": "芝士小动物-无漂浮版-闷.bdi_py_26_light_thumb.png",
-      "full": "芝士小动物-无漂浮版-闷.bdi_py_26_light_thumb.png",
-      "file_id": "0b1c8fcd111ef902f07e68707198a8a1"
-    },
-    {
-      "name": "乐妍底包",
       "file": "芝士小动物-无漂浮版-闷_透明.bdi",
       "thumb": "芝士小动物-无漂浮版-闷_透明.bdi_py_26_light_thumb.png",
       "full": "芝士小动物-无漂浮版-闷_透明.bdi_py_26_light_thumb.png",
@@ -191,6 +184,13 @@
       "thumb": "芝士小动物-无漂浮版-闷.bds_py_26_light_thumb.png",
       "full": "芝士小动物-无漂浮版-闷.bds_py_26_light_thumb.png",
       "file_id": "6979fb2db45ac3f52df8d00c795d97cc"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "芝士小动物-无漂浮版-闷.bdi",
+      "thumb": "芝士小动物-无漂浮版-闷.bdi_py_26_light_thumb.png",
+      "full": "芝士小动物-无漂浮版-闷.bdi_py_26_light_thumb.png",
+      "file_id": "0b1c8fcd111ef902f07e68707198a8a1"
     }
   ]
 }
