@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1109021620",
-  "updated_at": "2026-09-26T13:49:08+00:00",
+  "updated_at": "2026-09-26T13:49:44+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -198,6 +198,13 @@
       "thumb": "芝士小动物-无漂浮版-脆.bdi_py_26_light_thumb.png",
       "full": "芝士小动物-无漂浮版-脆.bdi_py_26_light_thumb.png",
       "file_id": "38dfb4f0b14a4ac4b84e1573ec28eda4"
+    },
+    {
+      "name": "芝士小动物-漂浮版-脆",
+      "file": "芝士小动物-无漂浮版-脆.bds",
+      "thumb": "芝士小动物-无漂浮版-脆.bds_py_26_light_thumb.png",
+      "full": "芝士小动物-无漂浮版-脆.bds_py_26_light_thumb.png",
+      "file_id": "438b9c8ba0cf8d75a6404d8fcc656f1e"
     }
   ]
 }
