@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1092135701",
-  "updated_at": "2026-09-29T08:25:12+00:00",
+  "updated_at": "2026-09-29T08:26:00+00:00",
   "skins": [
     {
       "name": "面包坊-无漂浮版音1",
@@ -23,6 +23,13 @@
       "thumb": "面包坊-无漂浮版音1_透明3.bdi_py_26_light_thumb.png",
       "full": "面包坊-无漂浮版音1_透明3.bdi_py_26_light_thumb.png",
       "file_id": "e251215a98581619f7deee601b9cae50"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "面包坊-无漂浮版音23.bdi",
+      "thumb": "面包坊-无漂浮版音23.bdi_py_26_light_thumb.png",
+      "full": "面包坊-无漂浮版音23.bdi_py_26_light_thumb.png",
+      "file_id": "23c7fecb33a108cc16b4c18a491be53b"
     }
   ]
 }
