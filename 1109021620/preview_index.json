@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1109021620",
-  "updated_at": "2026-10-01T12:52:56+00:00",
+  "updated_at": "2026-10-01T12:53:08+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -226,6 +226,13 @@
       "thumb": "天使如你-无漂浮版-脆_透明.bdi_py_26_light_thumb.png",
       "full": "天使如你-无漂浮版-脆_透明.bdi_py_26_light_thumb.png",
       "file_id": "17a0e89ed1b6b8330a2748331d76519b"
+    },
+    {
+      "name": "天使如你-漂浮版-闷",
+      "file": "天使如你-无漂浮版-闷.bds",
+      "thumb": "天使如你-无漂浮版-闷.bds_py_26_light_thumb.png",
+      "full": "天使如你-无漂浮版-闷.bds_py_26_light_thumb.png",
+      "file_id": "c933fe9c52428be2774622f39a84dea2"
     }
   ]
 }
