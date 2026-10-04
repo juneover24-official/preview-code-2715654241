@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1092135701",
-  "updated_at": "2026-10-04T13:10:15+00:00",
+  "updated_at": "2026-10-04T13:10:45+00:00",
   "skins": [
     {
       "name": "面包坊-无漂浮版音1",
@@ -54,17 +54,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "奶酪猫鼠-无漂浮版音2.bdi",
-      "thumb": "奶酪猫鼠-无漂浮版音2.bdi_py_26_light_thumb.png",
-      "full": "奶酪猫鼠-无漂浮版音2.bdi_py_26_light_thumb.png",
-      "file_id": "bb438ef4866083a5893fe84f054a2730"
-    },
-    {
-      "name": "乐妍底包",
       "file": "奶酪猫鼠-无漂浮版音1.bdi",
       "thumb": "奶酪猫鼠-无漂浮版音1.bdi_py_26_light_thumb.png",
       "full": "奶酪猫鼠-无漂浮版音1.bdi_py_26_light_thumb.png",
       "file_id": "aa7cf7138f62bce21c1ff436ce04cf3f"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "奶酪猫鼠-无漂浮版音2.bdi",
+      "thumb": "奶酪猫鼠-无漂浮版音2.bdi_py_26_light_thumb.png",
+      "full": "奶酪猫鼠-无漂浮版音2.bdi_py_26_light_thumb.png",
+      "file_id": "bb438ef4866083a5893fe84f054a2730"
     }
   ]
 }
