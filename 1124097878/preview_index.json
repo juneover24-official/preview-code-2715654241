@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1124097878",
-  "updated_at": "2026-10-29T14:15:13+00:00",
+  "updated_at": "2026-10-29T14:15:54+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -30,6 +30,13 @@
       "thumb": "冬日蓝-无漂浮版音1Os27.bdi_py_26_light_thumb.png",
       "full": "冬日蓝-无漂浮版音1Os27.bdi_py_26_light_thumb.png",
       "file_id": "ade8c09213137491d8796a2d36b37303"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "冬日蓝-无漂浮版音1Os26.bdi",
+      "thumb": "冬日蓝-无漂浮版音1Os26.bdi_py_26_light_thumb.png",
+      "full": "冬日蓝-无漂浮版音1Os26.bdi_py_26_light_thumb.png",
+      "file_id": "67175d4cce7e5fb11334d750906fd919"
     }
   ]
 }
