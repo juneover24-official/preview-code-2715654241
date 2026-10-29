@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1070130626",
-  "updated_at": "2026-10-29T12:38:15+00:00",
+  "updated_at": "2026-10-29T12:39:45+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -37,6 +37,13 @@
       "thumb": "雨天来信-无漂浮版音1OS27.bdi_py_26_light_thumb.png",
       "full": "雨天来信-无漂浮版音1OS27.bdi_py_26_light_thumb.png",
       "file_id": "bc93819db7492f008cfd82a35ffd36df"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "雨天来信-漂浮版音2OS27.bdi",
+      "thumb": "雨天来信-漂浮版音2OS27.bdi_py_26_light_thumb.png",
+      "full": "雨天来信-漂浮版音2OS27.bdi_py_26_light_thumb.png",
+      "file_id": "0151fb099b178bbc62c5d7f509009c7d"
     }
   ]
 }
