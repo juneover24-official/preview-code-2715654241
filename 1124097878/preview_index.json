@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1124097878",
-  "updated_at": "2026-10-29T14:40:37+00:00",
+  "updated_at": "2026-10-29T14:41:10+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -198,6 +198,13 @@
       "thumb": "便签炸锅-无漂浮版音1.bdi_py_26_light_thumb.png",
       "full": "便签炸锅-无漂浮版音1.bdi_py_26_light_thumb.png",
       "file_id": "bf66a25459fa1f5d603e51e1cb1c286d"
+    },
+    {
+      "name": "便签炸锅-漂浮版音2",
+      "file": "便签炸锅-漂浮版音2.bds",
+      "thumb": "便签炸锅-漂浮版音2.bds_py_26_light_thumb.png",
+      "full": "便签炸锅-漂浮版音2.bds_py_26_light_thumb.png",
+      "file_id": "2a19f257bf9afcd257554374d9f7eb57"
     }
   ]
 }
