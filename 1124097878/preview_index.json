@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1124097878",
-  "updated_at": "2026-10-29T14:44:00+00:00",
+  "updated_at": "2026-10-29T14:45:16+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -226,6 +226,13 @@
       "thumb": "便签炸锅-漂浮版音1.bds_py_26_light_thumb.png",
       "full": "便签炸锅-漂浮版音1.bds_py_26_light_thumb.png",
       "file_id": "666876101cda168ed7dd81858751feb9"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "海的回响-无漂浮版音2.bdi",
+      "thumb": "海的回响-无漂浮版音2.bdi_py_26_light_thumb.png",
+      "full": "海的回响-无漂浮版音2.bdi_py_26_light_thumb.png",
+      "file_id": "af1f3638332810991712ac7a27e76935"
     }
   ]
 }
