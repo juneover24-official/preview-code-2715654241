@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1092135701",
-  "updated_at": "2026-11-08T01:59:51+00:00",
+  "updated_at": "2026-11-08T02:00:08+00:00",
   "skins": [
     {
       "name": "面包坊-无漂浮版音1",
@@ -114,6 +114,13 @@
       "thumb": "爱洗澡的猪-漂浮版音2.bdi_py_26_light_thumb.png",
       "full": "爱洗澡的猪-漂浮版音2.bdi_py_26_light_thumb.png",
       "file_id": "e27cf5c623d4290cc6ec155b0b9c7aae"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "草莓炸锅-漂浮版音2.bdi",
+      "thumb": "草莓炸锅-漂浮版音2.bdi_py_26_light_thumb.png",
+      "full": "草莓炸锅-漂浮版音2.bdi_py_26_light_thumb.png",
+      "file_id": "2616cb19e4aadaf4e5cc55185b30dd7d"
     }
   ]
 }
