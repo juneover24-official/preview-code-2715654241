@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1092135701",
-  "updated_at": "2026-11-08T02:00:43+00:00",
+  "updated_at": "2026-11-08T02:06:54+00:00",
   "skins": [
     {
       "name": "面包坊-无漂浮版音1",
@@ -117,17 +117,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "草莓炸锅-漂浮版音2.bdi",
-      "thumb": "草莓炸锅-漂浮版音2.bdi_py_26_light_thumb.png",
-      "full": "草莓炸锅-漂浮版音2.bdi_py_26_light_thumb.png",
-      "file_id": "2616cb19e4aadaf4e5cc55185b30dd7d"
-    },
-    {
-      "name": "乐妍底包",
       "file": "草莓炸锅-漂浮版音1.bdi",
       "thumb": "草莓炸锅-漂浮版音1.bdi_py_26_light_thumb.png",
       "full": "草莓炸锅-漂浮版音1.bdi_py_26_light_thumb.png",
       "file_id": "462d7c3f040a5fec0d525b99065814b7"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "草莓炸锅-漂浮版音2.bdi",
+      "thumb": "草莓炸锅-漂浮版音2.bdi_py_26_light_thumb.png",
+      "full": "草莓炸锅-漂浮版音2.bdi_py_26_light_thumb.png",
+      "file_id": "2616cb19e4aadaf4e5cc55185b30dd7d"
     }
   ]
 }
