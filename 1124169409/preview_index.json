@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1124169409",
-  "updated_at": "2026-11-09T05:16:19+00:00",
+  "updated_at": "2026-11-12T08:20:19+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -30,6 +30,13 @@
       "thumb": "抹茶生活-无漂浮版音2os26.bdi_py_26_light_thumb.png",
       "full": "抹茶生活-无漂浮版音2os26.bdi_py_26_light_thumb.png",
       "file_id": "28687afeb3bce7f764fdcf53e6b580e4"
+    },
+    {
+      "name": "抹茶生活-漂浮版音1",
+      "file": "抹茶生活-漂浮版音1.bds",
+      "thumb": "抹茶生活-漂浮版音1.bds_py_26_light_thumb.png",
+      "full": "抹茶生活-漂浮版音1.bds_py_26_light_thumb.png",
+      "file_id": "81f697540578e3729a02919d5c6441ff"
     }
   ]
 }
