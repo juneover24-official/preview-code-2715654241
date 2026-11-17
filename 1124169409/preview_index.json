@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1124169409",
-  "updated_at": "2026-11-17T02:30:14+00:00",
+  "updated_at": "2026-11-17T07:18:06+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -121,6 +121,13 @@
       "thumb": "熊熊统治世界-漂浮版音1os26.bdi_py_26_light_thumb.png",
       "full": "熊熊统治世界-漂浮版音1os26.bdi_py_26_light_thumb.png",
       "file_id": "83841f2dec858946e03f7e6c24f55164"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "熊熊统治世界-漂浮版音2os26.bdi",
+      "thumb": "熊熊统治世界-漂浮版音2os26.bdi_py_26_light_thumb.png",
+      "full": "熊熊统治世界-漂浮版音2os26.bdi_py_26_light_thumb.png",
+      "file_id": "236f0e237cf9c141cb70ab9facf29080"
     }
   ]
 }
