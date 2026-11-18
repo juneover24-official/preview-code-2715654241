@@ -1,7 +1,7 @@
 {
   "qq_number": "2715654241",
   "group_number": "1124169409",
-  "updated_at": "2026-11-18T02:22:19+00:00",
+  "updated_at": "2026-11-18T08:41:49+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -163,6 +163,13 @@
       "thumb": "腊肠狗-漂浮版音1.bds_py_26_light_thumb.png",
       "full": "腊肠狗-漂浮版音1.bds_py_26_light_thumb.png",
       "file_id": "64148a7abf63e2b4cd765a2376e5b255"
+    },
+    {
+      "name": "腊肠狗-无漂浮版音2",
+      "file": "腊肠狗-无漂浮版音2.bds",
+      "thumb": "腊肠狗-无漂浮版音2.bds_py_26_light_thumb.png",
+      "full": "腊肠狗-无漂浮版音2.bds_py_26_light_thumb.png",
+      "file_id": "9aaf4c01a45b917a6ac6dac86c32c7cc"
     }
   ]
 }
